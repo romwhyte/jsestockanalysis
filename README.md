@@ -27,7 +27,7 @@ This analysis allows multiple stock to be valuated.  The calculation utilize the
 ## Author
 
 Romayne Whyte
-- https://ca.linkedin.com/in/romwhyte
+- https://www.linkedin.com/in/romaynewhyte/
 - https://github.com/romwhyte/
 
 ## License
